@@ -41,7 +41,8 @@ UVM_INFO scoreboard.sv(42):  ** TEST PASSED **   0 UVM_ERROR   0 bugs escaped to
 
 <sub>🎓 B.Sc. Electronics & Communications @ E-JUST · 🇹🇼 Incoming exchange @ NKUST · 📍 Cairo, Egypt</sub>
 
-⭐ *Star this repo — it's still cheaper than a chip re-spin.*
+**﴿ وَأَن لَّيْسَ لِلْإِنسَانِ إِلَّا مَا سَعَىٰ ۝ وَأَنَّ سَعْيَهُ سَوْفَ يُرَىٰ ﴾**
+
+<sub>— سورة النجم ٣٩–٤٠</sub>
 
 </div>
-
