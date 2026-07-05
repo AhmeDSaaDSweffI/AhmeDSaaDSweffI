@@ -12,7 +12,7 @@
 ---
 
 ```
-$ vsim -c -do "run -all" ahmed_saad_sweffi
+$ vsim -c -do "run -all" ahmed_sweffi
 # UVM_INFO @ 22yrs: sampling covergroups ...
 ```
 
@@ -41,6 +41,6 @@ UVM_INFO scoreboard.sv(42):  ** TEST PASSED **   0 UVM_ERROR   0 bugs escaped to
 
 <sub>🎓 B.Sc. Electronics & Communications @ E-JUST · 🇹🇼 Incoming exchange @ NKUST · 📍 Cairo, Egypt</sub>
 
-⭐ *If the coverage closed, leave a star.*
+⭐ *Star this repo — it's still cheaper than a chip re-spin.*
 
 </div>
