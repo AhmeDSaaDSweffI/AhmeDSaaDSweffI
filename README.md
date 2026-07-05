@@ -12,7 +12,7 @@
 ---
 
 ```
-$ vsim -c -do "run -all" ahmed_sweffi
+$ vsim -c -do "run -all" ahmed_saad_sweffi
 # UVM_INFO @ 22yrs: sampling covergroups ...
 ```
 
