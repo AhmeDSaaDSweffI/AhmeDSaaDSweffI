@@ -44,3 +44,4 @@ UVM_INFO scoreboard.sv(42):  ** TEST PASSED **   0 UVM_ERROR   0 bugs escaped to
 ⭐ *Star this repo — it's still cheaper than a chip re-spin.*
 
 </div>
+
